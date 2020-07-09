@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Paulo Oliveira Júnior is an undergraduate research assistant in Instrumentation and Computational Simulation Laboratory (LISComp) and an undergraduate student at Federal Fluminense University, expecting to graduate in December 2020. Paulo Oliveira Júnior is member of the Brazilian Physical Society and the Brazilian Geophysical Society. He has experience in Physics and Geophysics, focusing on Statistical Physics, Complex Networks, Complex Systems, Self-organized Systems, Earthquakes, with programming skills in C, Python, as well as in manipulation of software for complex networks, as Gephi.
+
 <!--
 **psloliveirajr/psloliveirajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
